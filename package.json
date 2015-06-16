@@ -1,0 +1,24 @@
+{
+  "name": "planetary",
+  "version": "0.0.1",
+  "description": "Express quickstart",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valls/Planetary.git"
+  },
+  "author": "valls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valls/Planetary/issues"
+  },
+  "homepage": "https://github.com/valls/Planetary",
+  "dependencies": {
+    "body-parser": "^1.13.0",
+    "express": "^4.12.4",
+    "morgan": "^1.6.0"
+  }
+}
